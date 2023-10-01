@@ -1,5 +1,5 @@
 ### Hi there 👋
-![neon443's GitHub stats](https://github-user-stats.vercel.app/api?username=neon443&show_icons=true&theme=radical)
+![neon443's GitHub stats](https://github-user-stats.vercel.app/api?username=neon443&show_icons=true&theme=transparent)
 <!--
 **neon443/neon443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
