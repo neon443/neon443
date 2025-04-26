@@ -15,7 +15,7 @@ Currently building [Near Future](https://github.com/neon443/NearFuture) - a powe
 - <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="swiftui" width="20" height="20"/> **SwiftUI** — Beautiful, Native UI Framework
 
 Find me on the internet
-Here
+- Here
 - [Bluesky](https://bsky.app/profile/neon443.bsky.social)
 - [Twitter](https://x.com/nihaalsharma64)
 - [Insta](https://www.instagram.com/_neon443)
