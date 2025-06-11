@@ -9,8 +9,6 @@ Things I’ve built
 - [DockPhobia](https://github.com/neon443/DockPhobia) - An app that makes your Mac's Dock unusable
 - [RNG Swift](https://github.com/neon443/RNG_Swift) - Random x generator
 
-Currently building [Near Future](https://github.com/neon443/NearFuture) - a powerful event tracker
-
 🧠 Currently learning:
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="20" height="20"/> **Swift** - The best, and it's not even close
 - <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="swiftui" width="20" height="20"/> **SwiftUI** — Beautiful, Native UI Framework
