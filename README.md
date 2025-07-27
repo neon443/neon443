@@ -7,7 +7,7 @@ Things I’ve built
 - [ShhShell](https://github.com/neon443/ShhShell) - An SSH Client for iOS
 - [AirAP](https://github.com/neon443/AirAP) - AirPlay server for iOS & macOS
 - [DockPhobia](https://github.com/neon443/DockPhobia) - An app that makes your Mac's Dock unusable
-- - [Near Future](https://github.com/neon443/NearFuture) - An event tracker
+- [Near Future](https://github.com/neon443/NearFuture) - An event tracker
 - [RNG Swift](https://github.com/neon443/RNG_Swift) - Random x generator
 
 🧠 Currently learning:
