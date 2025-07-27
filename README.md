@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Nihaal Sharma, a 15 year old in the 🇬🇧 UK
+I'm Nihaal Sharma, a 16 year old in the 🇬🇧 UK
 
 ![neon443's GitHub stats](https://github-user-stats.vercel.app/api?username=neon443&show_icons=true&theme=transparent)
 
