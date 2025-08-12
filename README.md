@@ -6,6 +6,7 @@ I'm Nihaal Sharma, a 16 year old in the 🇬🇧 UK
 Things I’ve built
 - [ShhShell](https://github.com/neon443/ShhShell) - An SSH Client for iOS
 - [AirAP](https://github.com/neon443/AirAP) - AirPlay server for iOS & macOS
+- [ColorCam3DS]() - Use the camera to capture colours in real life using a 3DS! ft @thucchi-cs
 - [DockPhobia](https://github.com/neon443/DockPhobia) - An app that makes your Mac's Dock unusable
 - [Near Future](https://github.com/neon443/NearFuture) - An event tracker
 - [RNG Swift](https://github.com/neon443/RNG_Swift) - Random x generator
