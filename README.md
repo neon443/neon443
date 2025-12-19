@@ -9,9 +9,8 @@ Things I’ve built
 - [ColorCam3DS](https://github.com/neon443/ColourCam3DS) - ft [@thucchi-cs](https://github.com/thucchi-cs) Use the 3DS camera to capture colours in real life!
 - [DockPhobia](https://github.com/neon443/DockPhobia) - An app that makes your Mac's Dock unusable
 - [Near Future](https://github.com/neon443/NearFuture) - An event tracker
-- [RNG Swift](https://github.com/neon443/RNG_Swift) - Random x generator
 
-🧠 Currently learning:
+Currently learning:
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="20" height="20"/> **Swift** - The best, and it's not even close
 - <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="swiftui" width="20" height="20"/> **SwiftUI** — Beautiful, Native UI Framework
 - UIKit
